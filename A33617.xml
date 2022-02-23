@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gyant whipt by his godmother, or, A loving epistle wrote to the most notorious observator, Monsieur L'Estrange by the Anti-Papastical J.C.</title>
+            <author>I. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33617</idno>
+            <idno type="STC">Wing C49</idno>
+            <idno type="STC">ESTC R5797</idno>
+            <idno type="EEBO-CITATION">12379164</idno>
+            <idno type="OCLC">ocm 12379164</idno>
+            <idno type="VID">60670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 861:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gyant whipt by his godmother, or, A loving epistle wrote to the most notorious observator, Monsieur L'Estrange by the Anti-Papastical J.C.</title>
+                  <author>I. C.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:60670:1" rendition="simple:additions"/>
+            <head>
+               <hi>The GYANT Whipt by his GOD MOTHER;</hi> OR, A Loving EPISTLE Wrote to the moſt Notorious Obſervator, <hi>Monſieur</hi> L'ESTRANGE.</head>
+            <byline>By the Anti-Papiſtical J. C.</byline>
+            <opener>
+               <salute>My dear G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Son!</salute>
+            </opener>
+            <p>KNeel down and ask my Bleſſing, thou Child of Threeſcore and upwards, that may'ſt be Grand-ſire to thy God-Mother; but I ſay, my good Boy, thou ſhalt not want my Bleſſing, ſince thou wilt have me be thy God-Mo<g ref="char:EOLhyphen"/>ther: Riſe up Sir Knight of the Lying Oracle, and may the Reward thou deſerveſt, be beſtowed upon thee, the <hi>Tripos of the E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms,</hi> or <hi>Colemans ſanctified Ruff.</hi> Why, thou Spawn of <hi>Garagantua,</hi> thou <hi>Co<g ref="char:EOLhyphen"/>loſs</hi> of Iniquity, mounted upon the <hi>Pelion</hi> of thy own Wit, and the <hi>Oſſa</hi> of Impudence, ſtretching forth thy Impious hands, like a true <hi>Titan</hi> againſt Heaven, that wouldſt, with thy Obſervating Club, knock <hi>Jupiter</hi> out of his Throne, art thou not a<g ref="char:EOLhyphen"/>fraid at laſt to come to thy 12 God-fathers? But they, even they, my Gyant Boy, will never appear more dreadful to thee thau thy enraged God-Mo<g ref="char:EOLhyphen"/>ther, at this inſtant, with the Rod of Correction in her awful hand, breeching and ſlaſhing her irreve<g ref="char:EOLhyphen"/>rent God-Son, in the Keen Fury of her Spleen: Doſt thou know thou Tube-peeping Obſervator, thou Fly-flap of the Times: thou Maggot-blower of Sedition, what it is to ſtir the Rage of a Woman? Come on I ſay, my pretty <hi>Narciſſus,</hi> that loves thy own Shadow ſo well, and doteſt on the Image of thy own Wit, come on I ſay, and ſet thy Foot to mine, and thou ſhalt find I am an <hi>Amazon</hi> as you call me, and ſhall make thee a Pigmy, carry thee about in a Cage, and ſhew thee with thy ridicu<g ref="char:EOLhyphen"/>lous Wit for a Monſter, that haſt already made all the Town to laugh at thee. Nay thou haſt mov'd the <hi>Britiſh</hi> Blood; and by the Soul of <hi>Boadicia,</hi> I will ſmoak thee, thou <hi>Neitherlandiſh</hi> Sooterkin, that flies in the face of a Woman, out of all thy lurking holes, I will tell the World of thy tricks, thou tumb<g ref="char:EOLhyphen"/>ling Puppet that danceſt to thy own Muſick: Tis no wonder thou haſt ſo great a Spite to <hi>Fleet-Bridg,</hi> a place fatal to thee and thy two Beaver Hats, whilſt thou fatteſt bare to thy dear Miſſes; 'Twas then <hi>Fleet-Lane</hi> was more Beloved, when thou haunt<g ref="char:EOLhyphen"/>edſt all the little Gaming Houſes without Licenſe; The loſs of thy two Beaver Hats, thou Goats Head, made thee ever ſince have a ſquinting eye on <hi>Goat-Ally;</hi> thy Brains then caught cold, and thou haſt been ſomewhat enfeebled ever ſince: Then thou uſedſt to handle Women more gently before thou wert become the Popes Spigot, to let forth Poyſon for the Whigs, when thou wouldſt have excuſed a Whigg for Printing of Treaſon, and have Licenſed the Wife to have committed Adultry; ô thou prime Faggot Stick of the Nation, and ſtickler for Juſtice and Government; but thou art ſince dwindled away to a Straw, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aileſt at Virtue i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Women, and canſt now only endeavour to beget Jealouſie in the Hus<g ref="char:EOLhyphen"/>band, in railing againſt the Honeſty of the Wife: but thy Spite and thy Malice is ſo well known, That thou art no more regarded than a Cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tering Monky; Thou railing puff of Vanity, thou bladder of Conceit, thou bubble of Wind and Water; thou <hi>Jack a-Lent</hi> of Straw, that ſtrutteſt like the Gyants in <hi>Guild-Hall,</hi> and haſt as much dread in thee: is it thus thou ſheweſt all thy mighty parts againſt a Woman? Is this the mighty <hi>Gogmagog L'Eſtrange,</hi> that at laſt ſtoops to wreſtle with a Woman? Are all your Polymical Volumns with all their high Rants and Rores, dwindled into a weekly ſheet, that rails at and abuſes a Woman? Well, have at you, with your own Weapon the Tongue, which moſt proper<g ref="char:EOLhyphen"/>ly belongs to our Sex, thou ſcold in Breeches; you will find a Woman has Teeth as well as Tongue, and can bite as well as talk; there are She-Satyrs as well as Hee-Goats, thou Student in <hi>Goatham Colledge,</hi> who with <hi>the Quinteſſence of Tom Thumb, and the Remarks of the Seven Wiſe Maſters,</hi> ſetſt up for an <hi>Obſervator,</hi> and aſſoon as thou ſeeſt any thing in Petticoats, crieſt out, an <hi>Amazon,</hi> a <hi>Sybill,</hi> a <hi>Goat,</hi> and takeſt them all for thy God-Mothers. But ſince I was thy God-Mother, thou man of an Hun<g ref="char:EOLhyphen"/>dred Names, which of them did I beſtow on thee, when thou waſt dipt in an Un-Chriſtian Font? Was it <hi>Tory</hi> or <hi>Towzer? Crack-fart</hi> or <hi>Gim-Crack? Papiſt</hi> or <hi>Pragmaticus? Protaeus</hi> or the <hi>Pied-Pi<g ref="char:EOLhyphen"/>per? Fidler</hi> or the <hi>Flea-Catcher?</hi> 'Troth, 'tis ſo long ſince, I have forgot? Thou haſt a Bead-role of them, which will ſerve thee to number thy <hi>Ave Maria's</hi> by, and will ſtick longer to thee than thy Mummy'd Fleſh to thy rotten Bones. Well <hi>Tory,</hi> what was it made thee to rore thus againſt thy God-Mother <hi>Evidence,</hi> ha? tell me thou ſhort-hand of <hi>Belzebub,</hi> in whoſe ugly Character of thine is compriſed more evil and miſchief than in forty men beſides; what was it that put thee into that Fit of undutiful rage and madneſs, as to provoke me thus to Chaſtize thee? Did Twenty Thouſand Apprentices call thee <hi>Papist</hi> and <hi>Popiſh Obſervator?</hi> did they indeed?
+<pb facs="tcp:60670:2"/>and therefore you'l be revenged of your God-Mo<g ref="char:EOLhyphen"/>ther, was that like a gracious Child of the Church of <hi>England?</hi> was that done like the Gyant <hi>Don Rugiero?</hi> or like a <hi>Pigmy</hi> as thou art, poking thy Bodkin Pen at a Woman, whom thou takeſt to be a Crane with a long Bill, that will take thee by the Noſe, and make thee Cry out, as loud as 'ere St. <hi>Dunſtan</hi> made the Devil with his Tongs: But tell me, why doſt thou wince ſo, and kick and fling at the Name of Papiſt, like an old Horſe with a gall'd Back, that loves not to be touched in that part? Not a word, ha? That wo'nt ſtop Mrs. <hi>Evidences</hi> mouth, nor Mr. <hi>Witneſſes</hi> neither, nor Mr. <hi>Affida<g ref="char:EOLhyphen"/>vits,</hi> but therefore you will be angry with your God Mother? But know Sir <hi>Crack-fart,</hi> that ſhe fears you not, and will not let you go like a Sneaking Cur without a pat from her Heel, or a Butt in the Hamms, that ſhall lay the Gyant <hi>Hodg</hi> on his back ſprawling, ſince thou haſt made her a Beaſt and a Goat. You ſay, God-Son, That I am good at ap<g ref="char:EOLhyphen"/>plying, and ſince I am a <hi>Sybill,</hi> ſure I ſhould be good at Propheſying too. O God-Son, have a care I ſay of the Tree with three ſtumps, that every month bears Evil Human Fruit, for the time is co<g ref="char:EOLhyphen"/>ming, that the Five Hundred Headed Beaſt, and Monſter as you have made it, the dreaded Senate will appear, and then barking <hi>Towzer</hi> will run away as if a Rattle were ty'd at his Tail, without ſo much as an Appeal or Godb'w'ye, and leave his Dear Friends, his <hi>Citts</hi> and his <hi>Bumpkins,</hi> his <hi>Zekiels</hi> and his <hi>Ephraims,</hi> his <hi>Vindicators</hi> and his <hi>Replyers,</hi> his <hi>Dialoguers</hi> and his <hi>Obſervators,</hi> and his whole Lit<g ref="char:EOLhyphen"/>ter of little barking Whelps, that uſed to follow the Heels, and attended the Fingers end of his <hi>Dogſhip,</hi> to the mercy of the Hang-man.</p>
+            <p>As I am a true <hi>Sybill</hi> this will come to paſs, my dear <hi>Godſon Crack-fart,</hi> and that before ever thou wilt be able to perform the Task thou haſt under<g ref="char:EOLhyphen"/>taken, of Writing <hi>Canting and Libelling out of the Kings Dominion.</hi> O <hi>Rhodomantado!</hi> this is a true Crackfart <hi>Rhodomontado,</hi> ſure thou hadſt mounted the Mole-hill Mountain of thy own Abili<g ref="char:EOLhyphen"/>ty, and ſaw all the little <hi>Whiggs</hi> like <hi>Piſmires</hi> crawl<g ref="char:EOLhyphen"/>ing under thee, which thou intendeſt with one daſh of thy Pen, to beat into the Earth, for ſtrike them out of the La<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of Nature. Why thou ſhaddow of a Gyant, thou <hi>Thraſonical Hercules,</hi> with thy Obſervating Club upon thy Neck, thou braying <hi>Aſs</hi> in a <hi>Lyons</hi> Skin, is it thus thou performeſt thy boaſtings in medling with thy Godmother? I will tell thee, if thou wilt write Canting and Li<g ref="char:EOLhyphen"/>belling out of the Kings Dominions, you muſt write your Worſhip out of the Kings Dominions, for Nonſenſe and Libels drop from thee continually, as naturally as Maggots from a Sheeps Tail, or Lice from a Beggar; I am ſure the Sybil does not over<g ref="char:EOLhyphen"/>ſhoot her ſelf in this. Now flouriſh your Mighty Pen againſt Peticoats, do <hi>Engliſh Don Quixot,</hi> do, tilt at a Woman, and ſee what a pat the twerling Tongue of a feeble Female, will take thy empty Noddle, that ſhall turn the Brains in thy Calves-Head, notwithſtanding thy brazen Forhead, more Braſs than <hi>Mambrino</hi>'s Helmes, or the Barbers Ba<g ref="char:EOLhyphen"/>ſon, Polliſh'd over with Impudence <hi>
+                  <g ref="char:V">Ʋ</g>d's Splutter-a-Nails, let hur come at this Fidling Crackfart God<g ref="char:EOLhyphen"/>ſon of mine!</hi> Art running into the <hi>Neitherlands,</hi> art thou? I han't done with thee: thou Maſquerading Scribler, thou Mouſe dropt out of the Snout of an <hi>Elephant,</hi> thou confounder of <hi>Whiggs,</hi> both Hee's and Shee's, thou Champion for the Cauſe, that threatneſt Twenty Thouſand Children, and then falleſt foul of a Woman: thou Jugling <hi>Hocus Po<g ref="char:EOLhyphen"/>cus</hi> of the Nation, that promiſes Wonders and per<g ref="char:EOLhyphen"/>form'ſt nothing; thou Whigg-tail groper, I will pull thee out by the Heels, tho thou wert lock't up in a Cheſt in thy Book-ſellers-Garrat, and ſhow the World what a tumbling Baboon thou art, dreſt in Dublet and Breeches, chattering againſt a Woman. Let me take breath, that I may reaſon a little with this ill contriv'd Godſon of mine, that he may ſee all this Chaſtiſement is not for nothing, but out of pure Love and Care, that he might forſake the De<g ref="char:EOLhyphen"/>vil and all his Works; for I ſee alas! I ſee he is go<g ref="char:EOLhyphen"/>ing the way of much Wicked fleſh, running a full gallop up <hi>Holborn</hi> Hill, to the fatal place, without ſo much as calling on his Sybil Godmother, in <hi>Goat-Ally,</hi> or taking a Bait at his own Houſe: But per<g ref="char:EOLhyphen"/>haps my young Gyant <hi>Godſon,</hi> of Threeſcore, being ſo tender a ſtripling, and well Corrected by his Godmother, may forſake his Evil Courſes, and take up ere it be too late, and not attempt the dangerous Adventure of attacking a Woman, and a bold <hi>Bri<g ref="char:EOLhyphen"/>tain</hi> too, a more deſperate act than running his Noddle into an Hive full of enraged Bees. Mrs. <hi>Sybil</hi> adviſes thee, thou whifler to the Devils Regi<g ref="char:EOLhyphen"/>ment, to put up thy Pipes, and not fall a tooting at every <hi>Whiggs</hi> Tail that Waggs, for thou wilt never be regarded, now thou haſt been flaſht by thy God-mother, who is able to manage thee without the help of <hi>Care</hi> or <hi>Janaway,</hi> two Gyants, that have made thee Tremble, for all thy Crack-fart Thunder. Nay I will yet be more bitter to thee than the <hi>Weekly Packet of Advice,</hi> which makes thee diſgorge thy ſelf. I tell thee, thou inveterate ſower of Sedition, I will be as oppoſite to thee, as Truth is to all thy Works, I will learn to write <hi>Dialogues</hi> as well as <hi>E<g ref="char:EOLhyphen"/>pistles,</hi> and to compoſe <hi>Satyrs</hi> and keen <hi>Iambicks,</hi> to be revenged of thee; There ſhan't be a <hi>Whigg,</hi> but ſhall wag his Tail at thee, in ſpite of thy Teeth, tho thou thinkeſt to be <hi>Lycenſer General</hi> of the Whiggs Tails, that none may wag without thy Li<g ref="char:EOLhyphen"/>cence and Obſervation. <hi>Godſon,</hi> you muſt excuſe a Woman if ſhe be a little impertinent with you, and that ſhe doth not fence with you according to your own Art of railing in Mode and Figure, ſhe is only uſed to the down-right natural way of ſpeaking Truth, and correcting the Errors of her God-child, after the womans manner, that is, laying it on ac<g ref="char:EOLhyphen"/>cording to her Female ability. I ſhall now con<g ref="char:EOLhyphen"/>clude with this moſt ſeaſonable Advice, tho I have little hopes of thy amendment, thou haſt been ſo long pickled in the Devils Poudering Tub, however, as a Godmother ought, I ſay, I do adviſe thee, to leave peeping after and obſerving the wagging of the Tails of the <hi>Whiggs:</hi> This is all I have to ſay to thee, and therefore without farther Ceremony, thou impo<g ref="char:EOLhyphen"/>tent, fumbling, over-grown, mercenary Scribler; thou frivolous, fooliſh, Dialoguing Whig-Tail Ob<g ref="char:EOLhyphen"/>ſervator, farewel and be hang'd,</p>
+            <closer>
+               <signed>So wiſhes the Shee-<hi>Whiggs</hi> and Your Sybil Godmother in <hi>Goat-Ally,</hi>
+J. C.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
